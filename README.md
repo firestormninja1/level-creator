@@ -1,4 +1,4 @@
-# level-creator
+# level-creator in pygame
 currently allows you to make levels, however am thinking of allowing loading of levels too :)
 Instructions:
 - press d,g to change between dirt block (saved as 2), grass block(saved as 1) . So when exporting, and reading the lines in ur main project file, it will mean that when reading through, the 0s will be ignored. 
